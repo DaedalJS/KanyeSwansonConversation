@@ -13,7 +13,7 @@ namespace RonyeWestsonConversation
         {
             var client = new HttpClient();
             var kanyeResponse = client.GetStringAsync("https://api.kanye.rest").Result;
-            string kanyeQuote = JObject.Parse(kanyeResponse).GetValue("quote").ToString();
+            string kanyeQuote = '"' + JObject.Parse(kanyeResponse).GetValue("quote").ToString() + '"';
             return kanyeQuote;
         }
         
