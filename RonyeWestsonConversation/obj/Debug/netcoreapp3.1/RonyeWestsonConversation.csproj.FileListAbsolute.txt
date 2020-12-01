@@ -1,0 +1,15 @@
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\bin\Debug\netcoreapp3.1\RonyeWestsonConversation.exe
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\obj\Debug\netcoreapp3.1\RonyeWestsonConversation.csprojAssemblyReference.cache
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\obj\Debug\netcoreapp3.1\RonyeWestsonConversation.AssemblyInfoInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\obj\Debug\netcoreapp3.1\RonyeWestsonConversation.AssemblyInfo.cs
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\bin\Debug\netcoreapp3.1\RonyeWestsonConversation.deps.json
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\bin\Debug\netcoreapp3.1\RonyeWestsonConversation.runtimeconfig.json
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\bin\Debug\netcoreapp3.1\RonyeWestsonConversation.runtimeconfig.dev.json
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\bin\Debug\netcoreapp3.1\RonyeWestsonConversation.dll
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\bin\Debug\netcoreapp3.1\RonyeWestsonConversation.pdb
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\obj\Debug\netcoreapp3.1\RonyeWestsonConversation.csproj.CoreCompileInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\obj\Debug\netcoreapp3.1\RonyeWestsonConversation.csproj.CopyComplete
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\obj\Debug\netcoreapp3.1\RonyeWestsonConversation.dll
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\obj\Debug\netcoreapp3.1\RonyeWestsonConversation.pdb
+C:\Users\HolyK\Desktop\GitRepos\RonyeWestsonConversation\RonyeWestsonConversation\obj\Debug\netcoreapp3.1\RonyeWestsonConversation.genruntimeconfig.cache

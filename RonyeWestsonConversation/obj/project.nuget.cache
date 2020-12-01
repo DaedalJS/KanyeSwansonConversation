@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hBlNcqwH6qrClXuJAeYo9wRDl6aZG8iipt+RFuMLMCgFynkps5V6KPnJu+V2oie88F9hYer6cfjWTaw/lifwCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HolyK\\Desktop\\GitRepos\\RonyeWestsonConversation\\RonyeWestsonConversation\\RonyeWestsonConversation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HolyK\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
