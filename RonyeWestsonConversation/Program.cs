@@ -6,6 +6,7 @@ namespace RonyeWestsonConversation
 {
     class Program
     {
+        
         static int QuoteCount()
         {
             bool gavenumb = false;
@@ -19,7 +20,8 @@ namespace RonyeWestsonConversation
             }
             while (gavenumb == false);
             
-            return Math.Abs(numb);
+
+            return numb;
 
         }
 
@@ -36,8 +38,12 @@ namespace RonyeWestsonConversation
 
             Console.WriteLine("how many exchanges would you like to listen in on?");
 
+            bool gaveNeg = false;
             int convLength = QuoteCount();
+            if (convLength < 0) {gaveNeg = true; convLength = Math.Abs(convLength); }
 
+            if (gaveNeg == true) { Console.WriteLine($"Try as you might you can't unhear the {convLength} exchanges you listened in on. \n" +
+                $"the scene replays in your mind as you feel a little dumber having heard it. \n"); }
             if (convLength == 0) { Console.WriteLine("overcome with the realization that you're about to be incredibly rude the guilt drives you to go about your business."); }
             else
             {
@@ -47,9 +53,11 @@ namespace RonyeWestsonConversation
                     if (i %2 == 0) { Console.WriteLine("Kanye: " + QuoteGrabber.KanyeQuote() + "\n"); } else { Console.WriteLine("Ron: " + QuoteGrabber.SwansonQuote() + "\n"); }
                     System.Threading.Thread.Sleep(1000);
                 }
-                Console.WriteLine("finally realizing how rude you're being, you decide to leave and never mention what you've heard to anyone.");
-            }
+                Console.WriteLine("finally realizing how rude you're being, you decide to leave and never mention what you've heard to anyone. \n ");
 
+            }
+            Console.WriteLine("\n press enter to quit");
+            Console.ReadLine();
             
 
         }
